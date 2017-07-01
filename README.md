@@ -1,4 +1,7 @@
 # Factory-Stock
+C++ (codeblocks) program to manage a virtual factory made using linked lists 
+
+
 Assembling of components 
 
 There is a factory dedicated to the assembling of components. Each component requires a set of parts that can either be in stock or provided from a manufacturer (with a determined delivery time).
