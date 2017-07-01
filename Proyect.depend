@@ -1,0 +1,241 @@
+# depslib dependency file v1.0
+1451582672 source:c:\users\qwerty\dropbox\eoop\project\proyect\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Part.h"
+	"Component.h"
+	"ClientOrder.h"
+	"Factory.h"
+
+1451498554 source:c:\users\qwerty\dropbox\eoop\project\proyect\src\chrono.cpp
+	<iostream>
+	"Chrono.h"
+
+1451559748 c:\users\qwerty\dropbox\eoop\project\proyect\include\chrono.h
+
+1450286701 c:\users\qwerty\dropbox\eoop\project\proyect\include\part.h
+	<iostream>
+	<fstream>
+	"streamutil.h"
+
+1450286226 source:c:\users\qwerty\dropbox\eoop\project\proyect\src\part.cpp
+	"Part.h"
+
+1451122452 c:\users\qwerty\dropbox\eoop\project\proyect\include\component.h
+	"Part.h"
+	<vector>
+
+1451581145 c:\users\qwerty\dropbox\eoop\project\proyect\include\clientorder.h
+	<iostream>
+	<fstream>
+	"component.h"
+
+1451581808 source:c:\users\qwerty\dropbox\eoop\project\proyect\src\clientorder.cpp
+	"ClientOrder.h"
+	"string.h"
+
+1451122452 source:c:\users\qwerty\dropbox\eoop\project\proyect\src\component.cpp
+	"Component.h"
+	"Part.h"
+
+1451582317 source:c:\users\qwerty\dropbox\eoop\project\proyect\src\factory.cpp
+	"Factory.h"
+	<vector>
+	<iostream>
+	<fstream>
+	"Component.h"
+
+1451569862 c:\users\qwerty\dropbox\eoop\project\proyect\include\factory.h
+	"ClientOrder.h"
+	"Component.h"
+	"chrono.h"
+
+1451581004 c:\users\qwerty\dropbox\eoop\project\proyect\include\streamutil.h
+	<cstring>
+	<string>
+
+1451580987 source:c:\users\qwerty\dropbox\eoop\project\proyect\src\streamutil.cpp
+	<iostream>
+	"streamutil.h"
+
+1451731143 source:c:\users\luis\dropbox\eoop\project\proyect\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Part.h"
+	"Component.h"
+	"ClientOrder.h"
+	"Factory.h"
+
+1451559748 c:\users\luis\dropbox\eoop\project\proyect\include\chrono.h
+
+1450286701 c:\users\luis\dropbox\eoop\project\proyect\include\part.h
+	<iostream>
+	<fstream>
+	"streamutil.h"
+
+1451581004 c:\users\luis\dropbox\eoop\project\proyect\include\streamutil.h
+	<cstring>
+	<string>
+
+1451122452 c:\users\luis\dropbox\eoop\project\proyect\include\component.h
+	"Part.h"
+	<vector>
+
+1451581145 c:\users\luis\dropbox\eoop\project\proyect\include\clientorder.h
+	<iostream>
+	<fstream>
+	"component.h"
+
+1451755605 c:\users\luis\dropbox\eoop\project\proyect\include\factory.h
+	"ClientOrder.h"
+	"Component.h"
+	"chrono.h"
+
+1451498554 source:c:\users\luis\dropbox\eoop\project\proyect\src\chrono.cpp
+	<iostream>
+	"Chrono.h"
+
+1451581808 source:c:\users\luis\dropbox\eoop\project\proyect\src\clientorder.cpp
+	"ClientOrder.h"
+	"string.h"
+
+1451122452 source:c:\users\luis\dropbox\eoop\project\proyect\src\component.cpp
+	"Component.h"
+	"Part.h"
+
+1450286226 source:c:\users\luis\dropbox\eoop\project\proyect\src\part.cpp
+	"Part.h"
+
+1451580987 source:c:\users\luis\dropbox\eoop\project\proyect\src\streamutil.cpp
+	<iostream>
+	"streamutil.h"
+
+1451583075 source:c:\users\luis\dropbox\eoop\project\proyect\src\factory.cpp
+	"Factory.h"
+	<vector>
+	<iostream>
+	<fstream>
+	"Component.h"
+
+1451734743 source:c:\users\luis\dropbox\eoop\project\project\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Part.h"
+	"Component.h"
+	"ClientOrder.h"
+	"Factory.h"
+
+1450290301 c:\users\luis\dropbox\eoop\project\project\include\part.h
+	<iostream>
+	<fstream>
+	"streamutil.h"
+
+1451584604 c:\users\luis\dropbox\eoop\project\project\include\streamutil.h
+	<cstring>
+	<string>
+
+1451126052 c:\users\luis\dropbox\eoop\project\project\include\component.h
+	"Part.h"
+	<vector>
+
+1451584745 c:\users\luis\dropbox\eoop\project\project\include\clientorder.h
+	<iostream>
+	<fstream>
+	"component.h"
+
+1451759205 c:\users\luis\dropbox\eoop\project\project\include\factory.h
+	"ClientOrder.h"
+	"Component.h"
+	"chrono.h"
+
+1451563348 c:\users\luis\dropbox\eoop\project\project\include\chrono.h
+
+1451502154 source:c:\users\luis\dropbox\eoop\project\project\src\chrono.cpp
+	<iostream>
+	"Chrono.h"
+
+1451585408 source:c:\users\luis\dropbox\eoop\project\project\src\clientorder.cpp
+	"ClientOrder.h"
+	"string.h"
+
+1452448653 source:c:\users\luis\dropbox\eoop\project\project\src\component.cpp
+	"Component.h"
+	"Part.h"
+
+1451586675 source:c:\users\luis\dropbox\eoop\project\project\src\factory.cpp
+	"Factory.h"
+	<vector>
+	<iostream>
+	<fstream>
+	"Component.h"
+
+1450289826 source:c:\users\luis\dropbox\eoop\project\project\src\part.cpp
+	"Part.h"
+
+1451584587 source:c:\users\luis\dropbox\eoop\project\project\src\streamutil.cpp
+	<iostream>
+	"streamutil.h"
+
+1451731143 source:c:\users\qwerty\dropbox\eoop\project\project\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Part.h"
+	"Component.h"
+	"ClientOrder.h"
+	"Factory.h"
+
+1450286701 c:\users\qwerty\dropbox\eoop\project\project\include\part.h
+	<iostream>
+	<fstream>
+	"streamutil.h"
+
+1451581004 c:\users\qwerty\dropbox\eoop\project\project\include\streamutil.h
+	<cstring>
+	<string>
+
+1451122452 c:\users\qwerty\dropbox\eoop\project\project\include\component.h
+	"Part.h"
+	<vector>
+
+1451581145 c:\users\qwerty\dropbox\eoop\project\project\include\clientorder.h
+	<iostream>
+	<fstream>
+	"component.h"
+
+1451755605 c:\users\qwerty\dropbox\eoop\project\project\include\factory.h
+	"ClientOrder.h"
+	"Component.h"
+	"chrono.h"
+
+1451559748 c:\users\qwerty\dropbox\eoop\project\project\include\chrono.h
+
+1451498554 source:c:\users\qwerty\dropbox\eoop\project\project\src\chrono.cpp
+	<iostream>
+	"Chrono.h"
+
+1451581808 source:c:\users\qwerty\dropbox\eoop\project\project\src\clientorder.cpp
+	"ClientOrder.h"
+	"string.h"
+
+1452445053 source:c:\users\qwerty\dropbox\eoop\project\project\src\component.cpp
+	"Component.h"
+	"Part.h"
+
+1451583075 source:c:\users\qwerty\dropbox\eoop\project\project\src\factory.cpp
+	"Factory.h"
+	<vector>
+	<iostream>
+	<fstream>
+	"Component.h"
+
+1450286226 source:c:\users\qwerty\dropbox\eoop\project\project\src\part.cpp
+	"Part.h"
+
+1451580987 source:c:\users\qwerty\dropbox\eoop\project\project\src\streamutil.cpp
+	<iostream>
+	"streamutil.h"
+

@@ -1,0 +1,4 @@
+History of orders
+(1;102;2;5;1;3;2;Luis
+(2;24;1;1;2;Pablo
+(3;305;2;9;12;6;1;Paco
